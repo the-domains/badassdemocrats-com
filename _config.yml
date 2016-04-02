@@ -1,0 +1,28 @@
+name: badassdemocrats.com
+favicon: null
+layout_spectrum: 0.2547852660063654
+typography_spectrum: 0.8673156381119043
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6616425970569253
+  lightness: 0.5420447478536516
+  saturation: 0.1265178811736405
+  rhythmicContrast: 0.1356100640259683
+purpose: []
