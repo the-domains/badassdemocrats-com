@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[badassdemocrats.com]]></title>
         <description><![CDATA[badassdemocrats.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/badassdemocrats-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 04:39:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Apr 2016 04:39:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/badassdemocrats-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>BadAssDemocrats.com, LLCProviding Merchandise Production, Sales, Marketing, and Fulfillment Services to Political Action Committees.</p>]]></description>
-            <link>undefinedbadassdemocratscom-llcproviding-production-sales-marketi/index.html</link>
+            <link>https://thegrid.ai/badassdemocrats-com/badassdemocratscom-llcproviding-production-sales-marketi/index.html</link>
             <guid isPermaLink="false">4bae0af9-91de-4841-87fa-d6a3272f6393</guid>
-            <pubDate>Sat, 02 Apr 2016 04:39:10 GMT</pubDate>
+            <pubDate>Sat, 02 Apr 2016 04:39:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
