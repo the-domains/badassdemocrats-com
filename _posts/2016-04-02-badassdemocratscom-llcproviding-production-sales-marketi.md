@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Providing Merchandise Design, Production, Sales, Marketing, and Fulfillment Services to Progressive Political Action Committees.'
-datePublished: '2016-04-03T15:29:23.992Z'
-dateModified: '2016-04-03T15:29:11.427Z'
+datePublished: '2016-04-15T18:01:13.135Z'
+dateModified: '2016-04-15T17:59:41.179Z'
 title: 'BadAssDemocrats.com, LLC'
 author: []
 sourcePath: _posts/2016-04-02-badassdemocratscom-llcproviding-production-sales-marketi.md
@@ -28,4 +28,5 @@ Providing Merchandise Design, Production, Sales, Marketing, and Fulfillment Serv
 
 _P.O. Box 8846, Tacoma, WA 98419-8846  
 info@baddassdemocrats.com  
-(661) 6BA-DASS (622-33277)_
+(661) 6BA-DASS (622-33277)  
+Fax (_253) 248-0240
